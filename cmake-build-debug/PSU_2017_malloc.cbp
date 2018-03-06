@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PSU_2017_malloc"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PSU_2017_malloc">
+				<Option output="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/PSU_2017_malloc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 PSU_2017_malloc"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PSU_2017_malloc/fast">
+				<Option output="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/PSU_2017_malloc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 PSU_2017_malloc/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/include/malloc.h">
+			<Option target="PSU_2017_malloc"/>
+		</Unit>
+		<Unit filename="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/src/block_tools.c">
+			<Option target="PSU_2017_malloc"/>
+		</Unit>
+		<Unit filename="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/src/calloc.c">
+			<Option target="PSU_2017_malloc"/>
+		</Unit>
+		<Unit filename="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/src/free.c">
+			<Option target="PSU_2017_malloc"/>
+		</Unit>
+		<Unit filename="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/src/malloc.c">
+			<Option target="PSU_2017_malloc"/>
+		</Unit>
+		<Unit filename="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/src/realloc.c">
+			<Option target="PSU_2017_malloc"/>
+		</Unit>
+		<Unit filename="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/src/show_alloc_mem.c">
+			<Option target="PSU_2017_malloc"/>
+		</Unit>
+		<Unit filename="/home/yohan/Documents/Epitech/Tek2/PSU/PSU_2017_malloc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

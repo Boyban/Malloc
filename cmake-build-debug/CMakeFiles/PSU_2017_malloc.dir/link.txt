@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/PSU_2017_malloc.dir/src/block_tools.c.o CMakeFiles/PSU_2017_malloc.dir/src/calloc.c.o CMakeFiles/PSU_2017_malloc.dir/src/free.c.o CMakeFiles/PSU_2017_malloc.dir/src/malloc.c.o CMakeFiles/PSU_2017_malloc.dir/src/realloc.c.o CMakeFiles/PSU_2017_malloc.dir/src/show_alloc_mem.c.o  -o PSU_2017_malloc 
